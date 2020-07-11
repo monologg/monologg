@@ -1,6 +1,6 @@
 ### Jangwon Park ([@monologg](https://github.com/monologg))
 
-### 🚀 Thing I do
+### 🚀 Things I do
 
 - **NLP Engineer** at ☕ **[Mathpresso](https://mathpresso.com/)**, solving various kinds of NLP task for ➕**Mathematical Text**➗
 - Contributing on **Korean NLP** with Open Source
