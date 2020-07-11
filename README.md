@@ -1,5 +1,3 @@
-### Jangwon Park
-
 ### 🚀 Things I do
 
 - **NLP Engineer** at ☕ **[Mathpresso](https://mathpresso.com/)**, solving various kinds of NLP task for ➕**Mathematical Text**➗
