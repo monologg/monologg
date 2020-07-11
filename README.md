@@ -1,4 +1,4 @@
-### Jangwon Park ([@monologg](https://github.com/monologg))
+### Jangwon Park
 
 ### 🚀 Things I do
 
