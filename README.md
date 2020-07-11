@@ -7,7 +7,6 @@
 
 ### 📬 Find me at
 
-- Email: [adieujw@gmail.com](mailto:adieujw@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/jang-won-park/](https://www.linkedin.com/in/jang-won-park/)
-- Tech Blog: [https://monologg.kr/](https://monologg.kr/)
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/jang-won-park/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/jang-won-park/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adieujw@gmail.com)](mailto:adieujw@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://monologg.kr/)](https://monologg.kr/) 
