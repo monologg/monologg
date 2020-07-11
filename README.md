@@ -1,8 +1,8 @@
 ### Jangwon Park ([@monologg](https://github.com/monologg))
 
-**NLP Engineer** at ☕ **[Mathpresso](https://mathpresso.com/)**, solving various kinds of NLP task for **Mathematical Text**
+- **NLP Engineer** at ☕ **[Mathpresso](https://mathpresso.com/)**, solving various kinds of NLP task for **Mathematical Text**
 
-Also trying to create better ecosystem for **Korean NLP** with Open source
+- Also trying to create better ecosystem for **Korean NLP** with Open source
 
 <div align=left>
 
