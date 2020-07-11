@@ -10,3 +10,4 @@
 - Email: [adieujw@gmail.com](mailto:adieujw@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/jang-won-park/](https://www.linkedin.com/in/jang-won-park/)
 - Tech Blog: [https://monologg.kr/](https://monologg.kr/)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/jang-won-park/) 
