@@ -1,11 +1,10 @@
-# Jangwon Park ([@monologg](https://github.com/monologg))
+## Jangwon Park ([@monologg](https://github.com/monologg))
 
 - **NLP Engineer** at ☕ **[Mathpresso](https://mathpresso.com/)**, solving various kinds of NLP task for ➕**Mathematical Text**➗
 
 - Contributing on **Korean NLP** with Open Source
 
-
-<div align=center>
+<div align=left>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/jang-won-park/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adieujw@gmail.com)](mailto:adieujw@gmail.com)
