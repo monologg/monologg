@@ -2,7 +2,7 @@
 
 - **NLP Engineer** at ☕ **[Mathpresso](https://mathpresso.com/)**, solving various kinds of NLP task for ➕**Mathematical Text**➗
 
-- Contributing on 🇰🇷 **Korean NLP** with Open Source
+- Contributing on **Korean NLP** with Open Source
 
 <div align=left>
 
