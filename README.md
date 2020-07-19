@@ -6,5 +6,7 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=monologg&show_icons=true&hide_border=False)](https://github.com/monologg)
 
+### 🚀 Things I do
+
 - **NLP Engineer** at ☕ **[Mathpresso](https://mathpresso.com/)**, solving various kinds of NLP task for ➕**Mathematical Text**➗
 - Contributing on **Korean NLP** with Open Source
